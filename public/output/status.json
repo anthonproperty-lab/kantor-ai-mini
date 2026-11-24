@@ -1,0 +1,17 @@
+{
+  "mission": "Menunggu perintah dari Boss...",
+  "agents": {
+    "rama": {
+      "status": "idle",
+      "bubble": "Siap mencari data & tren terbaru!"
+    },
+    "amira": {
+      "status": "idle",
+      "bubble": "Menunggu data riset dari Rama."
+    },
+    "atha": {
+      "status": "idle",
+      "bubble": "Siap menyusun jadwal prime-time WIB."
+    }
+  }
+}
